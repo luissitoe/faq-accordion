@@ -1,0 +1,2 @@
+# faq-accordion
+FQA Accordion
