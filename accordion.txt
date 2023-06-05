@@ -1,0 +1,31 @@
+Frequently Asked Questions
+
+1. What's an accordion?
+
+The accordion is a graphical control element comprising a vertically stackedlist of items, such as labels or thumbnails. Each item can be "expanded" or"collapsed" to reveal the content associated with that item.
+
+-------------------------------------------------------------------
+
+2. When and how it should be used?
+
+It should be used when users only need a few key concepts or descriptions of the content on a single page.
+
+-------------------------------------------------------------------
+
+3. What happens if the user clicks on a collapsed card while another card is open?
+
+It happens that the open card was closed, to give way to the information of the next open card, but there are different designs that prefer it the other way 
+around.
+
+-------------------------------------------------------------------
+
+4. What if the user clicks on a collapsed card while another card is open?
+
+An accordion always contains the category title, an expanded and a collapsed state, an icon indicating expansion, and the spacing between them.
+
+-------------------------------------------------------------------
+
+5. How to choose an icon to indicate expansion?
+
+You must choose a different icon to open and close, so that the user understands 
+what action he took.
